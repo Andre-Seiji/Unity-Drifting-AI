@@ -1,0 +1,56 @@
+{
+    "Driver": {
+        "checkpoints": [
+            {
+                "steps": 499941,
+                "file_path": "results\\Driver2\\Driver\\Driver-499941.onnx",
+                "reward": null,
+                "creation_time": 1724097708.3921328,
+                "auxillary_file_paths": [
+                    "results\\Driver2\\Driver\\Driver-499941.pt"
+                ]
+            },
+            {
+                "steps": 999946,
+                "file_path": "results\\Driver2\\Driver\\Driver-999946.onnx",
+                "reward": null,
+                "creation_time": 1724099705.5609112,
+                "auxillary_file_paths": [
+                    "results\\Driver2\\Driver\\Driver-999946.pt"
+                ]
+            },
+            {
+                "steps": 1412499,
+                "file_path": "results\\Driver2\\Driver\\Driver-1412499.onnx",
+                "reward": null,
+                "creation_time": 1724101646.1752205,
+                "auxillary_file_paths": [
+                    "results\\Driver2\\Driver\\Driver-1412499.pt"
+                ]
+            },
+            {
+                "steps": 3372720,
+                "file_path": "results\\Driver2\\Driver\\Driver-3372720.onnx",
+                "reward": null,
+                "creation_time": 1724115783.4693515,
+                "auxillary_file_paths": [
+                    "results\\Driver2\\Driver\\Driver-3372720.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3372720,
+            "file_path": "results\\Driver2\\Driver.onnx",
+            "reward": null,
+            "creation_time": 1724115783.4693515,
+            "auxillary_file_paths": [
+                "results\\Driver2\\Driver\\Driver-3372720.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
